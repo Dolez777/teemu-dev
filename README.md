@@ -21,7 +21,7 @@ My projects are engineered to run alongside advanced autonomous AI developers. I
 ---
 
 ## 📌 Featured Projects
-### 🏃‍♂️ [Oura Sensor Simulator & Telemetry Platform](https://github.com/Dolez777/oura-simulator)
+### 🏃‍♂️ [Oura Sensor Simulator & Telemetry Platform](https://github.com/Dolez777/oura_software_test_engineering)
 A full-stack mobile dashboard (React Native Expo) and FastAPI mock API strictly modeled on official Oura Ring v2 schemas.
 - Simulated network failures (HTTP 503 capacity errors, packet drops) and deployed E2E suites with Pytest and Playwright.
 - Deployed a headless Chromium PDF reporting daemon for biometric summaries.
@@ -32,4 +32,4 @@ An automated media extraction, transcode optimization, and cloud synchronization
 - Deployed comprehensive automated test suites using Pytest covering cloud syncing and daemon stability.
 - **[Tech Stack: Python, Pytest, Daemons, Cloud Sync, Linux]**
 
-📫 **Reach Me:** [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/teemu-valimaki/)) | [Email](teemuvalimaki@proton.me)
+📫 **Reach Me:** [LinkedIn]([(https://www.linkedin.com/in/teemu-valimaki/)] | [Email][(teemuvalimaki@proton.me)]
