@@ -32,4 +32,4 @@ An automated media extraction, transcode optimization, and cloud synchronization
 - Deployed comprehensive automated test suites using Pytest covering cloud syncing and daemon stability.
 - **[Tech Stack: Python, Pytest, Daemons, Cloud Sync, Linux]**
 
-📫 **Reach Me:** [LinkedIn]([(https://www.linkedin.com/in/teemu-valimaki/)] | [Email][(teemuvalimaki@proton.me)]
+📫 **Reach Me:** [LinkedIn]((https://www.linkedin.com/in/teemu-valimaki/) | [Email](teemuvalimaki@proton.me)
